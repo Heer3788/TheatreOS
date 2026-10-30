@@ -1,0 +1,16 @@
+# Dependencies and generated build output
+node_modules/
+dist/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+
+# OS/editor files
+.DS_Store
+*.swp
