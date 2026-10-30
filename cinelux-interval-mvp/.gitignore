@@ -1,0 +1,14 @@
+node_modules/
+__pycache__/
+.analytics-venv/
+data/*.json
+data/*.tmp
+data/analytics/raw/*.csv
+data/analytics/*.sqlite
+data/analytics/*.sqlite-*
+data/analytics/export/*.json
+data/analytics/reports/*.json
+data/analytics/powerbi/*
+.env
+.env.*
+!.env.example
